@@ -270,4 +270,5 @@
 /shaders/shaders_glsl/xbrz/shaders/6xbrz.glsl
 /shaders/shaders_glsl/xbrz/shaders/xbrz-freescale.glsl
 /shaders/shaders_glsl/xbrz/shaders/xbrz-freescale-multipass/xbrz-freescale-pass0.glsl
+/shaders/shaders_glsl/motionblur-simple.glslp
 /shaders/shaders_glsl/xbrz/shaders/xbrz-freescale-multipass/xbrz-freescale-pass1.glsl
